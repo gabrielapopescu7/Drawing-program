@@ -1,1 +1,4 @@
 # Drawing-program
+The project is a raster drawing program using the canvas element, built with HTML, CSS, and JavaScript. It allows users to draw using tools like ellipse, rectangle, and line, with real-time previews as users draw with the mouse. Users can customize the color and thickness of the lines for each tool and export their work in raster formats such as PNG or JPEG.
+
+The program also includes a background color selector and displays a list of all the drawn shapes. Users can delete or modify the properties (coordinates, size) of any selected shape. This project combines HTML for structure, CSS for styling, and JavaScript for interactivity and functionality, providing a flexible and user-friendly drawing tool.
